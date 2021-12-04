@@ -16,7 +16,7 @@ const Home = () => {
           </div>
         </div>
 
-        <Link to="Portfolio/about">
+        <Link to="/Portfolio/about">
           <button>More Info</button>
         </Link>
       </div>
